@@ -72,7 +72,6 @@
 }
 .teleport-show {
   display: flex !important;
-  transform: translateX(0%) !important;
 }
 .navLink {
   color: #27272D;
